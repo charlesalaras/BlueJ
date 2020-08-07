@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--- Last updated: 2020-08-07T15:17:10Z-800 -->
+
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -17,6 +19,12 @@
 				<string>#041d4c</string>
 				<key>caret</key>
 				<string>#E7EFFF</string>
+				<key>block_caret</key>
+				<string>#08317f</string>
+				<key>line_highlight</key>
+				<string>#E7EFFF</string>
+				<key>gutter_foreground</key>
+				<string>#041d4c</string>
 				<key>selection</key>
 				<string>#08317f</string>
 			</dict>
