@@ -12,5 +12,5 @@ Blue J is a very early syntax, and it is my first time working with XML. As time
 # Credits
 - A huge thank you to edelstone for their [tint and shade generator](https://maketintsandshades.com/), which acted as great resource during creation.
 - [tmTheme Editor](http://tmtheme-editor.herokuapp.com/#!/editor/theme/Monokai), by aziz was an incredibly useful learning and prototype tool for the early stages of this syntax theme, and taught me a great deal about how the XML works for tmTheme.
--Finally, a thank you to [IBM's design language](https://www.ibm.com/design/language/) for providing a useful resource for making great looking products.
--BlueJ Logo was created by Charles Alaras.
+- Finally, a thank you to [IBM's design language](https://www.ibm.com/design/language/) for providing a useful resource for making great looking products.
+- BlueJ Logo was created by Charles Alaras.
