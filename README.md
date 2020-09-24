@@ -1,5 +1,6 @@
 ![blueJ Logo](BlueJLogo.png)
 # BlueJ
+![BlueJ Demo](BlueJ.jpg)
 A monochromatic dark theme for Sublime Text 3.
 # About
 BlueJ is a syntax theme for Sublime Text 3. I created it because I wanted to have a theme for ST3 that was based on one unified color, and I chose my favorite, blue. It is based off of [IBM's main design language color](https://www.ibm.com/design/language/color).
